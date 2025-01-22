@@ -155,7 +155,7 @@ const ContactPage = () => {
   const DesktopLayout = () => (
     <div className="min-h-screen relative bg-gradient-to-br from-red-950 to-black overflow-hidden pb-24">
       <div className="absolute bottom-0 right-0 w-full h-full bg-gradient-to-br from-red-950 to-black" />
-      <div className="relative z-10 flex h-full">
+      <div className="px-8 relative z-10 flex h-full">
         <div className="w-1/2 p-12 flex flex-col text-white">
           <h1
             className="text-6xl text:white mb-8"
